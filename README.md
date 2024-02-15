@@ -15,6 +15,12 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236b69d6&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+en+Software+Junior%3BProgramador+Junior%3BAnalista+de+servicios+convergentes+(N1)" alt="Desarrollador en software Junior; Programador Junior; Analista de servicios convergentes (N1)">
     </a>
 </p>
+<p align="center">
+  <a href="mailto:tu_email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail">
+  </a>
+</p>
+
 
 <hr>
 
@@ -25,14 +31,14 @@
     </picture>
 <ul style="list-style-type: none; padding-left: 0;">
     <li>Tengo 19 años.</li>
-    <li>Soy Colombiano.</li>
-    <li>Actualmente trabajo como Analista de Servicios Convergentes en <a target="2_blank" href="https://xdc.com.co/">Xorex Colombia.</a></li>
+    <li>Soy Colombiano, residente en Bogota DC.</li>
+    <li>Actualmente trabajo como Analista de Servicios Convergentes en <a target="_blank" href="https://xdc.com.co/">Xorex Colombia.</a></li>
     <li>Tengo experiencia como Desarrollador Web durante mi pasantía en la<br> Alcaldía del Municipio de Fusagasugá, Colombia.</li>
-    <li>Soy Tecnólogo en Desarrollo de Software.</li>
+    <li>Soy Tecnólogo en Desarrollo de Software , graduado de la <a target="_blank" href="https://www.ucundinamarca.edu.co/">Universidad de Cundinamarca</a></li>.</li>
     <li>Estudio Ingeniería en Software.</li>
-    <li>Estoy certificado en Linux Básico e Intermedio por Cisco.</li>
+    <li>Estoy Certificado en Linux Básico e Intermedio por <a target="_blank" href="https://www.netacad.com/">Cisco.</a></li>
+    <li>Estoy Certificado en Fundamentos de Ciberseguridad por <a target="_blank" href="https://www.netacad.com/">Cisco.</a></li>
     <li>Estoy Certificado en Mantenimiento Preventivo y Correctivo <br>en Equipos de Cómputo por la universidad de Cundinamarca.</li>
-    <li>Estoy certificado en Fundamentos de Ciberseguridad por Cisco.</li>
 </ul>
 </details>
 </div>
