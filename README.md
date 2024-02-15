@@ -114,6 +114,15 @@
 </details>
 </div>
 
+
+<div style="display: inline-block; width: 60%;">
+    <details><summary><h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Estadisticas</h2></summary>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniFe-Developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniFe-Developer&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+
+</details>
+</div>
+
 <div style="display: inline-block; width: 60%;">
     <details>
         <summary>
@@ -133,24 +142,31 @@
                 <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail">
             </a>
         </li>
+        <br>
         <li>
             Crsthian Guerrero - Tecnólogo en desarrollo de Software
             <br>
-            <a href="https://github.com/DanielFernandoPintoSabogal" target="_blank">
+            <a href="https://github.com/demondcn" target="_blank">
                 <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub">
             </a>
             <a href="https://www.linkedin.com/in/daniel-fernando-pinto-sabogal-5258a7240/" target="_blank">
                 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn">
             </a>
-            <a href="mailto:d.pinto142004l@gmail.com">
+            <a href="mailto:guerrero70407@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail">
             </a>
         </li>
     </ul>
     </details>
 </div>
+<div style="display: inline-block; width: 60%;">
+    <details><summary><h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Creditos</h2></summary>
+        <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DaniFe-Developer&icon=0&color=0" alt="Visit Count" />
+</a>
 
-  
+</details>
+</div>
 
 </body>
 </html>
