@@ -16,9 +16,20 @@
     </a>
 </p>
 <p align="center">
-  <a href="mailto:tu_email@gmail.com">
+  <a href="mailto:d.pinto142004l@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail">
+      </a>
+    <a href="mailto:danielsabogal2004@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" title="Outlook">
   </a>
+        <a href="https://www.linkedin.com/in/daniel-fernando-pinto-sabogal-5258a7240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn">
+  </a>
+  <a href="https://github.com/DaniFe-Developer" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub">
+</a>
+
+        
 </p>
 
 
@@ -30,15 +41,16 @@
         <img align="right" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="250px">
     </picture>
 <ul style="list-style-type: none; padding-left: 0;">
-    <li>Tengo 19 años.</li>
-    <li>Soy Colombiano, residente en Bogota DC.</li>
-    <li>Actualmente trabajo como Analista de Servicios Convergentes en <a target="_blank" href="https://xdc.com.co/">Xorex Colombia.</a></li>
-    <li>Tengo experiencia como Desarrollador Web durante mi pasantía en la<br> Alcaldía del Municipio de Fusagasugá, Colombia.</li>
-    <li>Soy Tecnólogo en Desarrollo de Software , graduado de la <a target="_blank" href="https://www.ucundinamarca.edu.co/">Universidad de Cundinamarca</a></li>.</li>
-    <li>Estudio Ingeniería en Software.</li>
-    <li>Estoy Certificado en Linux Básico e Intermedio por <a target="_blank" href="https://www.netacad.com/">Cisco.</a></li>
-    <li>Estoy Certificado en Fundamentos de Ciberseguridad por <a target="_blank" href="https://www.netacad.com/">Cisco.</a></li>
-    <li>Estoy Certificado en Mantenimiento Preventivo y Correctivo <br>en Equipos de Cómputo por la universidad de Cundinamarca.</li>
+    <li>🦁 Tengo 19 años.</li>
+    <li>😉 Soy Colombiano, residente en Bogota DC.</li>
+    <li>💼 Actualmente trabajo como Analista de Servicios Convergentes en <a target="_blank" href="https://xdc.com.co/">Xorex Colombia.</a></li>
+    <li>🖥️ Tengo experiencia como <strong>Desarrollador Web</strong> durante mi pasantía en la<br> Alcaldía del Municipio de Fusagasugá, Colombia.</li>
+    <li>👨‍🎓 Soy Tecnólogo en Desarrollo de Software, graduado de la <a target="_blank" href="https://www.ucundinamarca.edu.co/">Universidad de Cundinamarca.</a>-> 2024</li>
+    <li>✏️ Estudio Ingeniería en Software.</li>
+    <li>🧾 Estoy Certificado en Linux Básico e Intermedio por <a target="_blank" href="https://www.netacad.com/">Cisco.</a></li>
+    <li>🧾 Estoy Certificado en Fundamentos de Ciberseguridad por <a target="_blank" href="https://www.netacad.com/">Cisco.</a></li>
+    <li>🧾 Estoy Certificado en Mantenimiento Preventivo y Correctivo <br>en Equipos de Cómputo por la <a target="_blank" href="https://www.ucundinamarca.edu.co/">Universidad de Cundinamarca.</a></li>
+    <li>🎮 Amante a los videojuegos</li>
 </ul>
 </details>
 </div>
@@ -100,6 +112,42 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" title="Ubuntu">
 </div>
 </details>
+</div>
+
+<div style="display: inline-block; width: 60%;">
+    <details>
+        <summary>
+            <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Colegas</h2>
+        </summary>
+    <ul>
+        <li>
+            William Henrique - Tecnólogo en desarrollo de Software
+            <br>
+            <a href="https://github.com/DanielFernandoPintoSabogal" target="_blank">
+                <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub">
+            </a>
+            <a href="https://www.linkedin.com/in/daniel-fernando-pinto-sabogal-5258a7240/" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn">
+            </a>
+            <a href="mailto:d.pinto142004l@gmail.com">
+                <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail">
+            </a>
+        </li>
+        <li>
+            Crsthian Guerrero - Tecnólogo en desarrollo de Software
+            <br>
+            <a href="https://github.com/DanielFernandoPintoSabogal" target="_blank">
+                <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub">
+            </a>
+            <a href="https://www.linkedin.com/in/daniel-fernando-pinto-sabogal-5258a7240/" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn">
+            </a>
+            <a href="mailto:d.pinto142004l@gmail.com">
+                <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail">
+            </a>
+        </li>
+    </ul>
+    </details>
 </div>
 
   
