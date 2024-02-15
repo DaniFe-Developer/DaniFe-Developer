@@ -5,11 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
 <div align="center">
-    <h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> soy Daniel <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>!<span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">👨🏻‍💻</span>.</h1>
+    <h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Daniel <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>!<span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">👨🏻‍💻</span>.</h1>
 </div>
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236b69d6&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+en+Software+Junior%3BProgramador+Junior%3BAnalista+de+servicios+convergentes+(N1)" alt="Desarrollador en software Junior; Programador Junior; Analista de servicios convergentes (N1)">
@@ -116,7 +115,7 @@
 
 
 <div style="display: inline-block; width: 60%;">
-    <details><summary><h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Estadisticas</h2></summary>
+    <details><summary><h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Estadisticas</h2></summary>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniFe-Developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniFe-Developer&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
 
@@ -126,7 +125,7 @@
 <div style="display: inline-block; width: 60%;">
     <details>
         <summary>
-            <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Colegas</h2>
+            <h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"> Colegas</h2>
         </summary>
         <ul style="list-style-type: none; padding-left: 0;">
             <li>
@@ -138,7 +137,7 @@
                 <a href="https://www.linkedin.com/in/daniel-fernando-pinto-sabogal-5258a7240/" target="_blank">
                     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn">
                 </a>
-                <a href="mailto:d.pinto142004l@gmail.com">
+                <a href="mailto:Wlily87@icloud.com">
                     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail">
                 </a>
             </li>
@@ -158,15 +157,21 @@
         </ul>
     </details>
 </div>
-
-<div style="display: inline-block; width: 60%;">
-    <details><summary><h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Creditos</h2></summary>
-                <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=DaniFe-Developer&icon=0&color=0" alt="Visit Count" />
-</a><br>
-    Credit <a href="https://github.com/DanielFernandoPintoSabogal" target="_blank">DaniFe-Developer</a>
-</details>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<div style="display: inline-block; width: 60%; text-align: center;">
+    <details>
+        <summary>
+            <h2><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> Créditos</h2>
+        </summary>
+        <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+        <div>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" >
+        </div>
+        Créditos: <a href="https://github.com/DanielFernandoPintoSabogal" target="_blank">DaniFe-Developer</a><br>
+        Diseño: <a href="https://github.com/DanielFernandoPintoSabogal" target="_blank">DaniFe-Developer</a><br>
+        Producción: <a href="https://github.com/DanielFernandoPintoSabogal" target="_blank">DaniFe-Developer</a><br>
+        👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
+    </details>
 </div>
-
 </body>
 </html>
