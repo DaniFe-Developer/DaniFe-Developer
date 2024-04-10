@@ -57,7 +57,8 @@
                     del Municipio de Fusagasugá, Colombia.</li>
                 <li>👨‍🎓 Soy Tecnólogo en Desarrollo de Software, graduado de la <a target="_blank"
                         href="https://www.ucundinamarca.edu.co/">Universidad de Cundinamarca.</a>➡️ 2024</li>
-                <li>✏️ Estudio Ingeniería en Software.</li>
+                <li>✏️ Estudio Ingeniería en Software en la <a target="_blank"
+                        href="https://www.ibero.edu.co/">Universidad Iberoamericana.</a></li>
                 <li>🧾 Estoy Certificado en Linux Básico e Intermedio por <a target="_blank"
                         href="https://www.netacad.com/">Cisco.</a></li>
                 <li>🧾 Estoy Certificado en Fundamentos de Ciberseguridad por <a target="_blank"
