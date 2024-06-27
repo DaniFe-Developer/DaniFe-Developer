@@ -49,9 +49,9 @@
                 <img align="right" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="250px">
             </picture>
             <ul style="list-style-type: none; padding-left: 0;">
-                <li>🦁 Tengo 19 años.</li>
+                <li>🦁 Tengo 20 años.</li>
                 <li>😉 Soy Colombiano, residente en Bogota DC.</li>
-                <li>💼 Actualmente trabajo como Analista de Servicios Convergentes en <a target="_blank"
+                <li>💼 Actualmente trabajo como Ingeniero de soporte en <a target="_blank"
                         href="https://xdc.com.co/">Xorex Colombia.</a></li>
                 <li>🖥️ Tengo experiencia como <strong>Desarrollador Web</strong> durante mi pasantía en la<br> Alcaldía
                     del Municipio de Fusagasugá, Colombia.</li>
