@@ -49,7 +49,7 @@
                 <img align="right" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="250px">
             </picture>
             <ul style="list-style-type: none; padding-left: 0;">
-                <li>🦁 Tengo 20 años.</li>
+                <li>🦁 Tengo 21 años.</li>
                 <li>😉 Soy Colombiano, residente en Bogota DC.</li>
                 <li>💼 Actualmente trabajo como Ingeniero de soporte en <a target="_blank"
                         href="https://xdc.com.co/">Xorex Colombia.</a></li>
